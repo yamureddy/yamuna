@@ -30,6 +30,11 @@ Reusable SPL queries, dashboards, and alerts for Java microservice monitoring.
 ### Cribl Log Routing Examples
 Cribl Stream pipelines for parsing, masking, filtering, and routing application logs to Splunk.
 
+## Certifications
+
+- Cribl Certified User
+https://certifications.cribl.io/4a0a9984-c9b1-4ed3-b910-e33a6b5bd2d2#acc.uwfKW1gb
+
 ## Contact
 
 - GitHub: https://github.com/yamureddy
